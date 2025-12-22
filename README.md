@@ -2,9 +2,18 @@
 
 A fast-paced space shooter game built with **Next.js** and **HTML5 Canvas**.
 
-![Cosmic Runner](https://img.shields.io/badge/Next.js-14-black?logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)
-![License](https://img.shields.io/badge/License-MIT-green)
+[![Cosmic Runner](https://img.shields.io/badge/Next.js-14-black?logo=next.js)](https://cosmic-runner-game.vercel.app/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)](https://cosmic-runner-game.vercel.app/)
+[![License](https://img.shields.io/badge/License-MIT-green)](https://cosmic-runner-game.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/🎮_Play_Now-Live_Demo-ff6b6b?style=for-the-badge)](https://cosmic-runner-game.vercel.app/)
+
+## 🌐 Live Demo
+
+**[▶️ Play Cosmic Runner Now!](https://cosmic-runner-game.vercel.app/)**
+
+## 🎯 About
+
+Cosmic Runner is an action-packed arcade space shooter where you pilot a spacecraft through an endless asteroid field. Dodge or destroy incoming asteroids, collect powerful power-ups, and rack up insane kill streaks as you climb the leaderboard. With **6 unique ships** to choose from, a **progressive upgrade system** that evolves your ship as you score, and the ability to **upload custom targets**, every run feels fresh and exciting. Whether you're on desktop or mobile, strap in for an adrenaline-fueled cosmic adventure!
 
 ## ✨ Features
 
